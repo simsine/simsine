@@ -1,4 +1,4 @@
-<img src="./sincos.gif">
+<img src="./sincos.gif" width="50%">
 
 <!--
 **simsine/simsine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
