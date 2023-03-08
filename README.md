@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./sincos.gif" style="width:50%;" align="center">
+  <img src="./sincos.gif" style="width:75%;" align="center">
 </div>
 <!--
 **simsine/simsine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
